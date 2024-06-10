@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "159770951696",
+    "project_id": "selfa-38b7e",
+    "storage_bucket": "selfa-38b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159770951696:android:496beb20b9908a11a18a95",
+        "android_client_info": {
+          "package_name": "com.example.expense_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159770951696-ie69gq99ujip18i0n18dvb9so0truqu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1QbzsV1WpL3-bn8WwDTPhBPx_FJ2eRto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159770951696-ie69gq99ujip18i0n18dvb9so0truqu1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159770951696-rakptjg7lf5fdtf8g7g57mp34ab65klo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expenseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
